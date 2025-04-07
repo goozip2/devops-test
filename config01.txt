@@ -1,1 +1,5 @@
-config01
+// devops-test configuratoin
+// author : manager
+// since : 2025-04-01
+// updated 2025-04-07
+// update config01.txt from dev
